@@ -1,0 +1,4 @@
+github.com/darkit/slog v0.0.22 h1:IWXtA1ieLdJp5GNDQ0pHU+rnkwt/O3nt6vXjgsTlOSE=
+github.com/darkit/slog v0.0.22/go.mod h1:u6E4LsYc9hPzQrjREfBb6PskAZ9ygTiB3n/9x0mxQhs=
+golang.org/x/sync v0.10.0 h1:3NQrjDixjgGwUOCaF8w2+VYHv0Ve/vGYSbdkTa98gmQ=
+golang.org/x/sync v0.10.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
